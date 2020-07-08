@@ -1,6 +1,6 @@
 <h1 align="center">Forked repository and added conversion python script </h1>
 My added scripts are: dowenload dataset notebook and txt_to_csv.py
-</br>Use toolkit normally to gather images from open images dataset. After gathering images just run the following script to convert txt labels files to csv:
+</br>Use toolkit normally to gather images from open images dataset. After gathering images just run the following script from colab notbook to convert txt labels files to csv:
 
 ```bash
 python txt_to_csv.py
